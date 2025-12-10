@@ -1,2 +1,1 @@
-# salon-beaute
-site vitrine d'un salon de beautÃ© (HTML/CSS)
+"Projet salon de beaut‚" 
